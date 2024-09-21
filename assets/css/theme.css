@@ -9148,7 +9148,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-section {
     position: relative;
-    background: url("../images/hero-bg.jpg") no-repeat center center;
+    background: url("../images/gen-back.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

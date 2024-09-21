@@ -4,10 +4,10 @@ includes:
     data: 50
 
   - meta: Exercises
-    data: 6
+    data: 5
 
   - meta: Assistants
-    data: 12
+    data: 11
 
   - meta: Students
     data: 30+

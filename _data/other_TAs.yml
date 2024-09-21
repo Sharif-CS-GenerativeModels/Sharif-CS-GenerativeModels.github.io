@@ -64,5 +64,13 @@
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/yasaman-haghbin-3615b1235/
+- name: abolfazl malekahmadi
+  roles:
+       - Assignments
+  image: abolfazl.jpg
+  social:
+    - name: github
+      link: https://github.com/abolfazlmalekahmadi
+
 
 
