@@ -1,0 +1,16 @@
+- title: Duration
+  value: 50
+  icon: clock
+  desc: Hours
+
+- title: Exercises
+  value: 6
+  icon: book
+
+- title: TAs
+  value: 12
+  icon: users
+
+- title: Students
+  value: 30+
+  icon: user-circle

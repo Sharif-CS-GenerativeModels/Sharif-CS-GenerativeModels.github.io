@@ -1,0 +1,25 @@
+title:  What's Included
+includes:
+  - meta: Hours
+    data: 50
+
+  - meta: Exercises
+    data: 6
+
+  - meta: Assistants
+    data: 12
+
+  - meta: Students
+    data: 30+
+
+ 
+
+subtitle: Course Content
+
+lessons:
+  - title: "Syllabus!"
+    
+    description: "Eagerness to learn everything you will need along the way :)"
+    body: lesson_1
+
+  

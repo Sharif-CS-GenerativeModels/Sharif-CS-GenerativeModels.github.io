@@ -1,0 +1,68 @@
+- name: Seyed Reza Tavakoli
+  roles:
+    - Assignments
+  image: tavakoli.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
+
+- name: Pouria Dadkhah
+  roles:
+      - Assignments
+  image: pouria.jpg
+  social:
+    - name: github
+      link: https://github.com/pouria-D
+    - name: linkedin
+      link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
+
+- name: Ramtin Moslemi
+  roles:
+       - Assignments
+  image: ramtin.jpg
+  social:
+    - name: linkedin
+      link: www.linkedin.com/in/ramtin-m
+- name: Amirabbas Asadi
+  roles:
+       - Assignments
+  image: amirabbas.jpeg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirabbas-asadi/
+- name: samira sheikha
+  roles:
+       - Assignments
+  image: samira.jpeg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/samirasheikha
+- name: mohammad hossein najafi
+  roles:
+       - Assignments
+  image: najafi.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammad-hossein-najafi-992889190
+- name: nasrin amjadi
+  roles:
+       - Assignments
+  image: nasrin.jpg
+
+- name: maryam dadkhah
+  roles:
+       - Assignments
+  image: maryam.jpg
+- name: amir hossein haji mohammad rezaie
+  roles:
+       - Assignments
+  image: haji.jpg
+- name: yasaman haghbin
+  roles:
+       - Assignments
+  image: yasaman.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/yasaman-haghbin-3615b1235/
+
+
