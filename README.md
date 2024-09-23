@@ -1,1 +1,1 @@
-# generativeAI.github.io
+# generativeModels.github.io
