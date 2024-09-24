@@ -17,13 +17,16 @@ includes:
 subtitle: Course Content
 
 lessons:
-  - title: "Syllabus"
+  - title: "Related Courses"
+    description: "Related Courses:"
+    body: related_courses
 
-    body: Syllabus
-  # - title: "lesson 1: Probabilistic graphical models"
-    
-  #   description: "Structured density"
-  #   body: lesson_1
+
+  - title: "References"
+    description: "Our Course References:"
+    body: references
+
+
   # - title: "lesson 2: Causality and causal models"
 
   #   body: lesson_2

@@ -1,0 +1,29 @@
+<div class="section" id="course-syllabus">
+    <div class="container">
+        <h2>Course Syllabus</h2>
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Week</th>
+                        <th>Date</th>
+                        <th>Lecture Topics</th>
+                        <th>Coursework</th>
+                        <th>Sections</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in site.data.syllabus %}
+                    <tr>
+                        <td>{{ row.week }}</td>
+                        <td>{{ row.date }}</td>
+                        <td>{{ row.lecture_topics | newline_to_br }}</td>
+                        <td>{{ row.coursework }}</td>
+                        <td>{{ row.sections }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

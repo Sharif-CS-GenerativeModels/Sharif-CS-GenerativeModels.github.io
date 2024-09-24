@@ -1,0 +1,93 @@
+- week: 1
+  date: ""
+  lecture_topics: |
+    (Probabilistic graphical models) Structured density
+    • Directed (Bayesian networks) and undirected models (Markov random fields)
+    • Exact and approximate inference
+    • Learning from complete and incomplete data
+  coursework: ""
+  sections: ""
+
+- week: 2
+  date: ""
+  lecture_topics: "Causality and causal models"
+  coursework: "Assignment 1: 1.25"
+  sections: ""
+
+- week: 3
+  date: ""
+  lecture_topics: |
+    (Deep generative models) Autoregressive Models
+    • FVSBN
+    • NADE: Neural Autoregressive Density Estimation
+    • RNN/LSTM and Transformers
+  coursework: "Assignment 2: 1.25"
+  sections: ""
+
+- week: 4
+  date: ""
+  lecture_topics: |
+    Variational auto encoder
+    • Deep Laten variable models
+    • The ELBO bound
+    • Stochastic training (Reparameterization trick)
+    • The gaussian VAE
+    • Samples of well-known VAES
+  coursework: ""
+  sections: ""
+
+- week: 5
+  date: ""
+  lecture_topics: |
+    Generative adversarial networks
+    • Comparing distributions via samples
+    • F-Divergences and the f-GAN
+    • GAN and Jenson-Shannon divergence
+    • Conditional GAN
+    • The Wasserstein GAN
+  coursework: "Assignment 3: 1.5"
+  sections: ""
+
+- week: 6
+  date: ""
+  lecture_topics: |
+    Normalizing Flows
+    • Autoregressive Flows
+    • Invertible Networks
+    • Neural Ordinary Differential Equations
+  coursework: ""
+  sections: ""
+
+- week: 7
+  date: ""
+  lecture_topics: |
+    Energy Based Model
+    • Recap of PGMs
+    • Combining graphical models and deep networks
+    • Ising models
+    • Structured loss for training energy models
+  coursework: "Assignment 4: 1.5"
+  sections: ""
+
+- week: 8
+  date: ""
+  lecture_topics: |
+    Score Based Models
+    • Score Based Denoising
+    • Langevin dynamics
+    • Score based generative models
+    • Score based diffusion models
+  coursework: ""
+  sections: ""
+
+- week: 9
+  date: ""
+  lecture_topics: "Evaluation of Generative Models"
+  coursework: "Assignment 5: 2"
+  sections: ""
+
+- week: 10
+  date: ""
+  lecture_topics: "Ethics and bias and interpretation of generative models"
+  coursework: ""
+  sections: ""

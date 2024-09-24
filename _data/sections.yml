@@ -6,6 +6,10 @@
   section: content
   navbar: true
 
+- title: Course Syllbes
+  section: syllbes
+  navbar: true
+
 - title: Education Team
   section: education
   navbar: true

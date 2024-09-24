@@ -193,3 +193,27 @@ ul {
 .carousel-inner .carousel-item-right, .carousel-inner .carousel-item-left {
   transform: translateX(0);
 }
+
+#course-syllabus table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#course-syllabus th, #course-syllabus td {
+  text-align: left;
+  padding: 8px;
+}
+
+#course-syllabus tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#course-syllabus th {
+  background-color: #526ed1;
+  color: white;
+}
+
+
+#course-syllabus h2 {
+  text-align: center;
+}
