@@ -9074,7 +9074,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-col-max {
-    max-width: 760px
+    max-width: 100%
 }
 
 .social-list li {
@@ -9148,7 +9148,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-section {
     position: relative;
-    background: url("../images/gen-back.jpg") no-repeat center center;
+    background: url("../images/gen-back.webp") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -9296,7 +9296,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-col-max {
-    max-width: 700px
+    max-width: 1140px;
+    margin-top: 3rem !important;
 }
 
 .theme-check-icon {
