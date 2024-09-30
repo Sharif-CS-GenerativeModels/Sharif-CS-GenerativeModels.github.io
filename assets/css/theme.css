@@ -9210,7 +9210,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-mask {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.7);
     position: absolute;
     width: 100%;
     height: 100%;
@@ -9293,6 +9293,11 @@ h1, h2, h3, h4, h5, h6 {
 .section-title {
     font-size: 2rem;
     text-align: center
+}
+
+.section-col-mid {
+    max-width: 780px;
+    margin-top: 3rem !important;
 }
 
 .section-col-max {

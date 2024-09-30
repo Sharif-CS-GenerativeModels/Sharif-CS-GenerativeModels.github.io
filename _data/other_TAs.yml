@@ -1,10 +1,23 @@
 - name: Seyed Reza Tavakoli
   roles:
-    - Assignments
+    - Chef TA
   image: tavakoli.jpg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
+
+- name: MohammadMahdi Barghi
+  roles:
+       - Homework No.4
+  image: barghi.jpg
+  social:
+    - name: github
+      link: https://github.com/mmahdibarghi
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammadmahdibarghi/
+
+
+
 
 - name: Pouria Dadkhah
   roles:
@@ -71,13 +84,5 @@
   social:
     - name: github
       link: https://github.com/abolfazlmalekahmadi
-- name: MohammadMahdi Barghi
-  roles:
-       - Assignments
-  image: barghi.jpg
-  social:
-    - name: linkedin
-      link: https://www.linkedin.com/in/mohammadmahdibarghi/
-
 
 

@@ -6,8 +6,8 @@
   section: content
   navbar: true
 
-- title: Course Syllbes
-  section: syllbes
+- title: Course Calendar
+  section: calendar
   navbar: true
 
 - title: Education Team

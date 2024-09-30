@@ -1,0 +1,205 @@
+- date: 1403/7/1
+  subjects:
+    - "**Introduction**"
+  assignment: []
+  sections: 
+    - title: "Slide 1: Introduction"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
+
+- date: 1403/7/3
+  subjects:
+    - "**Probabilistic graphical models:** Directed (Bayesian networks) and undirected models (Markov random fields)"
+  assignment: []
+  sections: []
+
+- date: 1403/7/8
+  subjects:
+    - "**Exact and approximate inference**"
+  assignment: []
+  sections: []
+
+- date: 1403/7/10
+  subjects:
+    - "Approximate inference (**variational mean field** - MCMC sampling)"
+  assignment: []
+  sections: []
+
+- date: 1403/7/15
+  subjects:
+    - "Learning from **complete data**"
+  assignment: []
+  sections: []
+
+- date: 1403/7/17
+  subjects:
+    - "Learning from **incomplete data**"
+    - "Tiny Quiz 1"
+  assignment: []
+  sections: []
+
+- date: 1403/7/22
+  subjects:
+    - "**Causality and causal models**"
+  assignment: 
+    - title: "HW1"
+      link: "/assignments/hw1.pdf"
+  sections: []
+
+- date: 1403/7/24
+  subjects:
+    - "**Deep generative models:** Autoregressive Models (FVBN - NADE)"
+  assignment: []
+  sections: []
+
+- date: 1403/7/29
+  subjects:
+    - "Autoregressive Models (**NADE - RNN/LSTM**)"
+  assignment: []
+  sections: []
+
+- date: 1403/8/1
+  subjects:
+    - "Autoregressive Models (**Transformers**)"
+  assignment: []
+  sections: []
+
+- date: 1403/8/8
+  subjects:
+    - "**Variational Auto-encoder**"
+  assignment:
+    - title: "HW1 Due"
+      link: "/upload-page-for-hw1"
+    - title: "HW2"
+      link: "/assignments/hw2.pdf"
+  sections: []
+
+- date: 1403/8/13
+  subjects:
+    - "**Variational Auto-encoder**"
+    - "Tiny Quiz 2"
+  assignment: []
+  sections: []
+
+- date: 1403/8/15
+  subjects:
+    - "**Generative adversarial networks (GAN)**"
+  assignment: []
+  sections: []
+
+- date: 1403/8/20
+  subjects:
+    - "**Generative adversarial networks (WGAN)**"
+  assignment: []
+  sections: []
+
+- date: 1403/8/22
+  subjects:
+    - "**Mid-term exam**"
+  assignment: []
+  sections: []
+
+- date: 1403/8/27
+  subjects:
+    - "**Normalizing Flows**"
+  assignment:
+    - title: "HW2 Due"
+      link: "/upload-page-for-hw2"
+    - title: "HW3"
+      link: "/assignments/hw3.pdf"
+  sections: []
+
+- date: 1403/8/29
+  subjects:
+    - "**Normalizing Flows**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/4
+  subjects:
+    - "**Normalizing Flows**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/6
+  subjects:
+    - "**Energy based models**"
+    - "Tiny quiz 3"
+  assignment: []
+  sections: []
+
+- date: 1403/9/11
+  subjects:
+    - "**Energy based models**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/13
+  subjects:
+    - "**Energy based models**"
+  assignment: 
+    - title: "HW3 Due"
+      link: "/upload-page-for-hw3"
+    - title: "HW4"
+      link: "/assignments/hw4.pdf"
+  sections: []
+
+- date: 1403/9/18
+  subjects:
+    - "**Score based models**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/20
+  subjects:
+    - "**Score based models**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/25
+  subjects:
+    - "**Score based models**"
+  assignment: []
+  sections: []
+
+- date: 1403/9/27
+  subjects:
+    - "**Score based models**"
+    - "Tiny quiz 4"
+  assignment: []
+  sections: []
+
+- date: 1403/10/2
+  subjects:
+    - "**Evaluation of Generative Models**"
+  assignment: 
+    - title: "HW4 Due"
+      link: "/upload-page-for-hw4"
+    - title: "HW5"
+      link: "/assignments/hw5.pdf"
+  sections: []
+
+- date: 1403/10/4
+  subjects:
+    - "**Evaluation of Generative Models**"
+    - "Ethics and bias and interpretation of generative models"
+  assignment: []
+  sections: []
+
+- date: 1403/10/9
+  subjects:
+    - "**Student presentations**"
+  assignment: []
+  sections: []
+
+- date: 1403/10/11
+  subjects:
+    - "**Student presentations**"
+  assignment: []
+  sections: []
+
+- date: 1403/10/18
+  subjects: []
+  assignment: 
+    - title: "HW5 Due"
+      link: "/upload-page-for-hw5"
+  sections: []

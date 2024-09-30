@@ -18,6 +18,10 @@ subtitle: Course Content
 
 lessons:
 
+  - title: "Slides"
+    description: "This section will be completed throughout the semester..."
+    body: slides
+
   - title: "References"
     description: "Our Course References:"
     body: references
