@@ -8,7 +8,7 @@
 
 - name: MohammadMahdi Barghi
   roles:
-       - Homework No.4
+    - Homework No.3
   image: barghi.jpg
   social:
     - name: github
@@ -16,12 +16,9 @@
     - name: linkedin
       link: https://www.linkedin.com/in/mohammadmahdibarghi/
 
-
-
-
 - name: Pouria Dadkhah
   roles:
-      - Assignments
+    - Homework No.4
   image: pouria.jpg
   social:
     - name: github
@@ -31,58 +28,70 @@
 
 - name: Ramtin Moslemi
   roles:
-       - Assignments
+    - Homework No.1
+    - Homework No.4
   image: ramtin.jpg
   social:
     - name: linkedin
       link: www.linkedin.com/in/ramtin-m
+
 - name: Amirabbas Asadi
   roles:
-       - Assignments
+    - HW No.3
+    - HW No.4
+    - HW No.5
   image: amirabbas.jpeg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/amirabbas-asadi/
-- name: samira sheikha
+
+- name: Samira Sheikha
   roles:
-       - Assignments
+    - Homework No.1
+    - Homework No.5
   image: samira.jpeg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/samirasheikha
-- name: mohammad hossein najafi
+
+- name: Mohammad Hossein Najafi
   roles:
-       - Assignments
+    - Homework No.3
   image: najafi.jpg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/mohammad-hossein-najafi-992889190
-- name: nasrin amjadi
+
+- name: Nasrin Amjadi
   roles:
-       - Assignments
+    - Homework No.3
+    - Homework No.5
   image: nasrin.jpg
 
-- name: maryam dadkhah
+- name: Maryam Dadkhah
   roles:
-       - Assignments
+    - Homework No.2
+    - Homework No.3
   image: maryam.jpg
-- name: amir hossein haji mohammad rezaie
+
+- name: Amir Hossein Haji Mohammad Rezaie
   roles:
-       - Assignments
+    - Homework No.5
   image: haji.jpg
-- name: yasaman haghbin
+
+- name: Yasaman Haghbin
   roles:
-       - Assignments
+    - Homework No.1
+    - Homework No.2
   image: yasaman.jpg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/yasaman-haghbin-3615b1235/
-- name: abolfazl malekahmadi
+
+- name: Abolfazl Malekahmadi
   roles:
-       - Assignments
+    - Homework No.2
   image: abolfazl.jpg
   social:
     - name: github
       link: https://github.com/abolfazlmalekahmadi
-
-

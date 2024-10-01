@@ -13,7 +13,7 @@
                 </thead>
                 <tbody>
                     {% for row in site.data.calendar %}
-                    <tr>
+                    <tr style="background-color: {{ row.color | default: 'transparent' }};">
                         <td>{{ row.date }}</td>
                         <td>
                             {% for subject in row.subjects %}
