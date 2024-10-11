@@ -22,12 +22,12 @@ lessons:
     description: "This section will be completed throughout the semester..."
     body: slides
 
-  - title: "References"
-    description: "Our Course References:"
+  - title: "Text books"
+    description: "Related Text books:"
     body: references
 
-  - title: "Related Courses"
-    description: "Related Courses:"
+  - title: "Useful Links"
+    description: "Useful links to learn more:"
     body: related_courses
 
 
