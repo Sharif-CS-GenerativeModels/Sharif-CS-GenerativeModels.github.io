@@ -9148,12 +9148,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-section {
     position: relative;
-    background: url("../images/gen-back.webp") no-repeat center center;
+    background: url("../images/header_back.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-height: 400px;
+    min-height: 200px;
     color: #fff
 }
 
@@ -9164,17 +9164,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-heading-upper {
     font-size: 1.375rem;
-    font-weight: 500
+    font-weight: 200
 }
 
 .hero-heading {
     color: #fff;
-    font-size: 2rem;
-    font-weight: 700
+    font-size: 1.5rem;
+    font-weight: 200
 }
 
 .hero-heading .brand {
-    font-size: 4rem
+    font-size: 3rem
 }
 
 .hero-heading .brand .name {
