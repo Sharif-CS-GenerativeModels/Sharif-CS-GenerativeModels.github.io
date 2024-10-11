@@ -2,12 +2,12 @@
   section: overview
   navbar: true
 
-- title: Content
-  section: content
-  navbar: true
-
 - title: Course Calendar
   section: calendar
+  navbar: true
+
+- title: Content
+  section: content
   navbar: true
 
 - title: Education Team
