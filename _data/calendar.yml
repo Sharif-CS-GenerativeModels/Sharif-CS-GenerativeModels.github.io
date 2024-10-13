@@ -1,6 +1,8 @@
 - date: 1403/7/1
   subjects:
-    - "**Introduction**"
+    - "Introduction"
+    - title: "Slide 1: Introduction"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   assignment: []
   sections: 
     - title: "Slide 1: Introduction"
