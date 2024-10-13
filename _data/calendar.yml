@@ -70,38 +70,37 @@
   sections: []
   color: ""
 
-- date: 1403/8/13
+- date: 1403/8/20 
+        1403/8/22
   subjects:
-    - "**Variational Auto-encoder**"
-    - "Tiny Quiz 2"
+    - "**Generative adversarial networks**"
+    - F-GAN, W-GAN
   assignment: []
   sections: []
   color: ""
-
-- date: 1403/8/15
-  subjects:
-    - "**Generative adversarial networks (GAN)**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/8/20
-  subjects:
-    - "**Generative adversarial networks (WGAN)**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/8/22
-  subjects:
-    - "**Mid-term exam**"
-  assignment: []
-  sections: []
-  color: "#ffcccc"  # Light red color for midterm exam row
 
 - date: 1403/8/27
+         1403/8/29
   subjects:
-    - "**Normalizing Flows**"
+    - "**Normalizing flow**"
+  assignment: []
+  sections: []
+  color: ""
+
+- date: 1403/9/6
+        1403/9/11
+  subjects:
+    - "**Energy based models**"
+  assignment: []
+  sections: []
+  color: ""
+
+
+- date: 1403/9/13
+        1403/9/18
+        1403/9/20
+  subjects:
+    - "**Score based models**"
   assignment:
     - title: "HW2 Due"
       link: "/upload-page-for-hw2"
@@ -110,70 +109,10 @@
   sections: []
   color: ""
 
-- date: 1403/8/29
-  subjects:
-    - "**Normalizing Flows**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/4
-  subjects:
-    - "**Normalizing Flows**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/6
-  subjects:
-    - "**Energy based models**"
-    - "Tiny quiz 3"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/11
-  subjects:
-    - "**Energy based models**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/13
-  subjects:
-    - "**Energy based models**"
-  assignment: 
-    - title: "HW3 Due"
-      link: "/upload-page-for-hw3"
-    - title: "HW4"
-      link: "/assignments/hw4.pdf"
-  sections: []
-  color: ""
-
-- date: 1403/9/18
-  subjects:
-    - "**Score based models**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/20
-  subjects:
-    - "**Score based models**"
-  assignment: []
-  sections: []
-  color: ""
-
 - date: 1403/9/25
+        1403/9/27
   subjects:
-    - "**Score based models**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/9/27
-  subjects:
-    - "**Score based models**"
+    - "**Langevin Dynamics and Diffusions**"
     - "Tiny quiz 4"
   assignment: []
   sections: []
@@ -192,30 +131,16 @@
 
 - date: 1403/10/4
   subjects:
-    - "**Evaluation of Generative Models**"
-    - "Ethics and bias and interpretation of generative models"
+    - "**Trustworthy Generative AI**"
   assignment: []
   sections: []
   color: ""
 
 - date: 1403/10/9
+        1403/10/11
   subjects:
     - "**Student presentations**"
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/10/11
-  subjects:
-    - "**Student presentations**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/10/18
-  subjects: []
-  assignment: 
-    - title: "HW5 Due"
-      link: "/upload-page-for-hw5"
-  sections: []
-  color: ""
