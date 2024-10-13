@@ -7,45 +7,30 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   color: ""
 
-- date: 1403/7/3
+- date: 1403/7/3 - 1403/7/8
   subjects:
-    - "**Probabilistic graphical models:** Directed (Bayesian networks) and undirected models (Markov random fields)"
+    - "Probabilistic graphical models: Representation (Directed (Bayesian networks) and undirected models (Markov random fields))"
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/7/8
+- date: 1403/7/10 - 1403/7/15 - 1403/7/17
   subjects:
-    - "**Exact and approximate inference**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/7/10
-  subjects:
-    - "Approximate inference (**variational mean field** - MCMC sampling)"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/7/15
-  subjects:
-    - "Learning from **complete data**"
-  assignment: []
-  sections: []
-  color: ""
-
-- date: 1403/7/17
-  subjects:
-    - "Learning from **incomplete data**"
-    - "Tiny Quiz 1"
+    - "Probabilistic graphical models: Exact and approximate inference (Variational inference and sampling)"
   assignment: []
   sections: []
   color: ""
 
 - date: 1403/7/22
   subjects:
-    - "**Causality and causal models**"
+    - "Probabilistic graphical models: Learning (Learning from complete and incomplete data)"
+  assignment: []
+  sections: []
+  color: ""
+
+- date: 1403/7/24
+  subjects:
+    - "Causality and causal inference"
   assignment: 
     - title: "HW1"
       link: "/assignments/hw1.pdf"
