@@ -44,34 +44,26 @@
   sections: []
   color: ""
 
-- date: 1403/7/24
-  subjects:
-    - "**Deep generative models:**"
-    -"Autoregressive Models (FVBN - NADE)"
-  assignment: []
-  sections: []
-  color: ""
-
 - date: 1403/7/29
+        1403/8/1
+        1403/8/8
   subjects:
-    - "Autoregressive Models (**NADE - RNN/LSTM**)"
+    -"**Deep generative models**"
+    -"**Autoregressive Models**"
+    -"FVBN - NADE"
+    -"Sequence Modeling, Text Modeling - LSTM"
+    -"Transformer encoder/decoder, Intro. to large language models"
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/8/1
-  subjects:
-    - "Autoregressive Models (**Transformers**)"
-  assignment: []
-  sections: []
-  color: ""
 
-- date: 1403/8/8
+
+- date: 1403/8/13
+        1403/8/15
   subjects:
     - "**Variational Auto-encoder**"
   assignment:
-    - title: "HW1 Due"
-      link: "/upload-page-for-hw1"
     - title: "HW2"
       link: "/assignments/hw2.pdf"
   sections: []
