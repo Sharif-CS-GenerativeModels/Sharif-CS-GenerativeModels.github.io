@@ -30,7 +30,8 @@
 
 - date: 1403/7/22
   subjects:
-    - "Probabilistic graphical models: Learning (Learning from complete and incomplete data)"
+    - "**Probabilistic graphical models: Learning**"
+    - "Learning from complete and incomplete data"
   assignment: []
   sections: []
   color: ""
@@ -48,11 +49,11 @@
         1403/8/1
         1403/8/8
   subjects:
-    -"**Deep generative models**"
-    -"**Autoregressive Models**"
-    -"FVBN - NADE"
-    -"Sequence Modeling, Text Modeling - LSTM"
-    -"Transformer encoder/decoder, Intro. to large language models"
+    - "**Deep generative models**"
+    - "**Autoregressive Models**"
+    - "FVBN - NADE"
+    - "Sequence Modeling, Text Modeling - LSTM"
+    - "Transformer encoder/decoder, Intro. to large language models"
   assignment: []
   sections: []
   color: ""
