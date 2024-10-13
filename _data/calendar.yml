@@ -9,7 +9,8 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   color: ""
 
-- date: 1403/7/3 - 1403/7/8
+- date: -1403/7/3 
+        -1403/7/8
   subjects:
     - "Probabilistic graphical models: Representation (Directed (Bayesian networks) and undirected models (Markov random fields))"
   assignment: []
@@ -41,7 +42,8 @@
 
 - date: 1403/7/24
   subjects:
-    - "**Deep generative models:** Autoregressive Models (FVBN - NADE)"
+    - "**Deep generative models:**"
+    -"Autoregressive Models (FVBN - NADE)"
   assignment: []
   sections: []
   color: ""
