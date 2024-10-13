@@ -1,6 +1,6 @@
 - date: 1403/7/1
   subjects:
-    - "Introduction"
+    - "**Introduction**"
     - title: "Slide 1: Introduction"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   assignment: []
@@ -9,17 +9,21 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   color: ""
 
-- date: -1403/7/3 
-        -1403/7/8
+- date: 1403/7/3 
+        1403/7/8
   subjects:
-    - "Probabilistic graphical models: Representation (Directed (Bayesian networks) and undirected models (Markov random fields))"
+    - "**Probabilistic graphical models: Representation**"
+    - "Directed (Bayesian networks) and undirected models (Markov random fields)"
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/7/10 - 1403/7/15 - 1403/7/17
+- date: 1403/7/10 
+        1403/7/15 
+        1403/7/17
   subjects:
-    - "Probabilistic graphical models: Exact and approximate inference (Variational inference and sampling)"
+    - "**Probabilistic graphical models: Exact and approximate inference**"
+    - "Variational inference and sampling"
   assignment: []
   sections: []
   color: ""
