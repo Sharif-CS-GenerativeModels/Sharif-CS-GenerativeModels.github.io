@@ -1738,6 +1738,7 @@ pre code {
     display: block;
     width: 100%;
     overflow-x: auto;
+    font-size: 15px;
     -webkit-overflow-scrolling: touch
 }
 

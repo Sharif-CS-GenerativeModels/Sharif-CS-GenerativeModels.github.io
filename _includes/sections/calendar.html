@@ -14,10 +14,20 @@
                 <tbody>
                     {% for row in site.data.calendar %}
                     <tr style="background-color: {{ row.color | default: 'transparent' }};">
-                        <td>{{ row.date }}</td>
+                        <td>
+                            {% for d in row.date %}
+                                <div>{{ d }}</div>
+                            {% endfor %}
+                        </td>
                         <td>
                             {% for subject in row.subjects %}
-                                <div>{{ subject | markdownify }}</div>
+                                <div>
+                                    {% if subject.link and subject.link != "" %}
+                                        <a href="{{ subject.link }}">{{ subject.title | markdownify }}</a>
+                                    {% else %}
+                                        {{ subject.title | markdownify }}
+                                    {% endif %}
+                                </div>
                             {% endfor %}
                         </td>
                         <td>

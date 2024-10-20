@@ -1,6 +1,8 @@
-- date: 1403/7/1
+- date: 
+    - 1403/7/1
   subjects:
-    - "**Introduction**"
+    - title: "**Introduction**"
+      link: ""
     - title: "Slide 1: Introduction"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   assignment: []
@@ -9,36 +11,47 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   color: ""
 
-- date: 1403/7/3 
-        1403/7/8
+- date:
+    - 1403/7/3
+    - 1403/7/8
   subjects:
-    - "**Probabilistic graphical models: Representation**"
-    - "Directed (Bayesian networks) and undirected models (Markov random fields)"
+    - title: "**Probabilistic graphical models: Representation**"
+      link: ""
+    - title: "Directed (Bayesian networks) and undirected models (Markov random fields)"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/7/10 
-        1403/7/15 
-        1403/7/17
+- date:
+    - 1403/7/10
+    - 1403/7/15
+    - 1403/7/17
   subjects:
-    - "**Probabilistic graphical models: Exact and approximate inference**"
-    - "Variational inference and sampling"
+    - title: "**Probabilistic graphical models: Exact and approximate inference**"
+      link: ""
+    - title: "Variational inference and sampling"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/7/22
+- date:
+    - 1403/7/22
   subjects:
-    - "**Probabilistic graphical models: Learning**"
-    - "Learning from complete and incomplete data"
+    - title: "**Probabilistic graphical models: Learning**"
+      link: ""
+    - title: "Learning from complete and incomplete data"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/7/24
+- date:
+    - 1403/7/24
   subjects:
-    - "**Causality and causal inference**"
+    - title: "**Causality and causal inference**"
+      link: ""
   assignment: 
     - title: "HW1"
       link: "/assignments/hw1.pdf"
@@ -47,70 +60,86 @@
   sections: []
   color: ""
 
-- date: 1403/7/29
-        1403/8/1
-        1403/8/8
+- date:
+    - 1403/7/29
+    - 1403/8/1
+    - 1403/8/8
   subjects:
-    - "**(Deep generative models) Autoregressive Models**"
-    - "FVBN - NADE"
-    - "Sequence Modeling, Text Modeling - LSTM"
-    - "Transformer encoder/decoder, Intro. to large language models"
+    - title: "**(Deep generative models) Autoregressive Models**"
+      link: ""
+    - title: "FVBN - NADE"
+      link: ""
+    - title: "Sequence Modeling, Text Modeling - LSTM"
+      link: ""
+    - title: "Transformer encoder/decoder, Intro. to large language models"
+      link: ""
   assignment: 
     - title: "HW2"
       link: "/assignments/hw2.pdf"
   sections: []
   color: ""
 
-
-
-- date: 1403/8/13
-        1403/8/15
+- date:
+    - 1403/8/13
+    - 1403/8/15
   subjects:
-    - "**Variational Auto-encoder**"
+    - title: "**Variational Auto-encoder**"
+      link: ""
   assignment:
     - title: "Tiny Quiz2"
       link: "/assignments/hw2.pdf"
   sections: []
   color: ""
 
-- date: 1403/8/20 
-        1403/8/22
+- date:
+    - 1403/8/20
+    - 1403/8/22
   subjects:
-    - "**Generative adversarial networks**"
-    - f-Divergences and the f-GAN
-    - Wasserstein GAN
+    - title: "**Generative adversarial networks**"
+      link: ""
+    - title: "f-Divergences and the f-GAN"
+      link: ""
+    - title: "Wasserstein GAN"
+      link: ""
   assignment: 
-  - title: "HW3"
-    link: "/assignments/hw3.pdf"
+    - title: "HW3"
+      link: "/assignments/hw3.pdf"
   sections: []
   color: ""
 
-- date: 1403/8/27
-         1403/8/29
+- date:
+    - 1403/8/27
+    - 1403/8/29
   subjects:
-    - "**Normalizing flow**"
-    - Generative Flow: NICE, Glow
-    - Neural ODE
+    - title: "**Normalizing flow**"
+      link: ""
+    - title: "Generative Flow: NICE, Glow"
+      link: ""
+    - title: "Neural ODE"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/9/6
-        1403/9/11
+- date:
+    - 1403/9/6
+    - 1403/9/11
   subjects:
-    - "**Energy based models**"
+    - title: "**Energy based models**"
+      link: ""
   assignment: 
     - title: "Mid-term exam"
       link: "/assignments/midexam.pdf"  
   sections: []
   color: ""
 
-
-- date: 1403/9/13
-        1403/9/18
-        1403/9/20
+- date:
+    - 1403/9/13
+    - 1403/9/18
+    - 1403/9/20
   subjects:
-    - "**Score based models**"
+    - title: "**Score based models**"
+      link: ""
   assignment:
     - title: "HW4"
       link: "/assignments/hw4.pdf"
@@ -119,17 +148,21 @@
   sections: []
   color: ""
 
-- date: 1403/9/25
-        1403/9/27
+- date:
+    - 1403/9/25
+    - 1403/9/27
   subjects:
-    - "**Langevin Dynamics and Diffusions**"
+    - title: "**Langevin Dynamics and Diffusions**"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/10/2
+- date:
+    - 1403/10/2
   subjects:
-    - "**Evaluation of Generative Models**"
+    - title: "**Evaluation of Generative Models**"
+      link: ""
   assignment: 
     - title: "HW5"
       link: "/assignments/hw5.pdf"
@@ -138,18 +171,21 @@
   sections: []
   color: ""
 
-- date: 1403/10/4
+- date:
+    - 1403/10/4
   subjects:
-    - "**Trustworthy Generative AI**"
+    - title: "**Trustworthy Generative AI**"
+      link: ""
   assignment: []
   sections: []
   color: ""
 
-- date: 1403/10/9
-        1403/10/11
+- date:
+    - 1403/10/9
+    - 1403/10/11
   subjects:
-    - "**Student presentations**"
+    - title: "**Student presentations**"
+      link: ""
   assignment: []
   sections: []
   color: ""
-

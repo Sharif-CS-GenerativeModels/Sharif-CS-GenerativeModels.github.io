@@ -18,9 +18,9 @@ subtitle: Course Content
 
 lessons:
 
-  - title: "Slides"
-    description: "This section will be completed throughout the semester..."
-    body: slides
+  # - title: "Slides"
+  #   description: "This section will be completed throughout the semester..."
+  #   body: slides
 
   - title: "Text books"
     description: "Related Text books:"
