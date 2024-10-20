@@ -114,7 +114,7 @@
   assignment:
     - title: "HW4"
       link: "/assignments/hw4.pdf"
-     - title: "Tiny Quiz3"
+    - title: "Tiny Quiz3"
       link: "/assignments/hw3.pdf"
   sections: []
   color: ""
@@ -123,7 +123,7 @@
         1403/9/27
   subjects:
     - "**Langevin Dynamics and Diffusions**"
-  assignment:[]
+  assignment: []
   sections: []
   color: ""
 
