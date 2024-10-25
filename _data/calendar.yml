@@ -17,7 +17,9 @@
       link: ""
     - title: "Directed (Bayesian networks) and undirected models (Markov random fields)"
       link: ""
-  assignment: []
+  assignment: 
+      - title: "TA1-pytorch intro."
+         link: ""
   sections: 
    -Tb[4]-chapter 3 & 4
   color: ""
