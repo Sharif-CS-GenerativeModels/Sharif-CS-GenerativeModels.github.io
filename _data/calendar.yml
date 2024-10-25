@@ -17,9 +17,7 @@
       link: ""
     - title: "Directed (Bayesian networks) and undirected models (Markov random fields)"
       link: ""
-  assignment: 
-      - title: "TA1-pytorch intro."
-         link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/GM-TA1.rar"
+  assignment: []
   sections: 
       - title: "Tb[4]-chapter 3 & 4"
         link: ""
