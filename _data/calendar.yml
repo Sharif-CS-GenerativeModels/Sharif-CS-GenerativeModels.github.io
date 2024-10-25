@@ -51,8 +51,9 @@
       link: ""
   assignment: []
   sections: 
-  - "Tb[4]-chapter 16 & 17"
-  - title: "A note on EM"
+    - title: "Tb[4]-chapter 16 & 17"
+      link: ""
+    - title: "A note on EM"
       link: "https://people.cs.umass.edu/~domke/courses/sml2011/10em.pdf"
   color: ""
 
@@ -87,7 +88,8 @@
     - title: "HW2"
       link: "/assignments/hw2.pdf"
   sections: 
-      - Tb[2]-chapter 22
+      - title: "Tb[2]-chapter 22"
+        link: ""
       - title: "harvardnlp"
         link: "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
       - title: "tutorial on DGM"
@@ -104,7 +106,8 @@
     - title: "Tiny Quiz2"
       link: "/assignments/hw2.pdf"
   sections: 
-      - Tb[2]-chapter 21
+    - title: "Tb[2]-chapter 21"
+      link: ""
   color: ""
 
 - date:
