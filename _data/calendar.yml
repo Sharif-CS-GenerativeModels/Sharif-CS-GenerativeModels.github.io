@@ -3,7 +3,7 @@
   subjects:
     - title: "**Introduction**"
       link: ""
-    - title: "Slide 1: Introduction"
+    - title: "Slide"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   assignment: []
   sections: 
@@ -63,13 +63,14 @@
 - date:
     - 1403/7/29
     - 1403/8/1
+    - 1403/8/6
     - 1403/8/8
   subjects:
     - title: "**(Deep generative models) Autoregressive Models**"
       link: ""
     - title: "FVBN - NADE"
       link: ""
-    - title: "Sequence Modeling, Text Modeling - LSTM"
+    - title: "Sequence Modeling, Text Modeling - RNN"
       link: ""
     - title: "Transformer encoder/decoder, Intro. to large language models"
       link: ""
@@ -97,7 +98,7 @@
   subjects:
     - title: "**Generative adversarial networks**"
       link: ""
-    - title: "f-Divergences and the f-GAN"
+    - title: "f-Divergences and f-GAN"
       link: ""
     - title: "Wasserstein GAN"
       link: ""
