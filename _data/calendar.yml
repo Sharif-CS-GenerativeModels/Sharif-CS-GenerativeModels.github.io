@@ -50,7 +50,9 @@
       link: ""
   assignment: []
   sections: 
-  -Tb[4]-chapter 16 & 17
+  - "Tb[4]-chapter 16 & 17"
+  - title: "A note on EM"
+      link: "https://people.cs.umass.edu/~domke/courses/sml2011/10em.pdf"
   color: ""
 
 - date:
