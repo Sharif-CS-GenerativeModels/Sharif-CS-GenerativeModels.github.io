@@ -21,6 +21,8 @@
   sections: 
       - title: "Tb[4]-chapter 3 & 4"
         link: ""
+      - title: "Stanford CS228 notes"
+        link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
 - date:
@@ -38,6 +40,8 @@
     link: ""
   - title: "Tb[4]-chapter 9"
     link: ""
+  - title: "Stanford CS228 notes"
+    link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
 - date:
@@ -53,6 +57,8 @@
       link: ""
     - title: "A note on EM"
       link: "https://people.cs.umass.edu/~domke/courses/sml2011/10em.pdf"
+    - title: "Stanford CS228 notes"
+      link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
 - date:
