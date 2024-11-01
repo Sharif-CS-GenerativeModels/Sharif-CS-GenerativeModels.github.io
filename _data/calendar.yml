@@ -6,7 +6,9 @@
     - title: "Slide"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Introduction.pptx"
   assignment: []
-  sections: []
+  sections:
+       - title: "A tutorial on DGM"
+         link: "https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf"
   color: ""
 
 - date:
@@ -82,11 +84,11 @@
   subjects:
     - title: "**(Deep generative models) Autoregressive Models**"
       link: ""
-    - title: "FVBN - NADE"
+    - title: "FVSBN - NADE"
       link: ""
     - title: "Sequence Modeling, Text Modeling - RNN"
       link: ""
-    - title: "Transformer encoder/decoder, Intro. to large language models"
+    - title: "Transformer encoder/decoder, Intro. to large language models & in context learning"
       link: ""
   assignment: 
     - title: "HW2"
@@ -98,8 +100,12 @@
         link: ""
       - title: "harvard-nlp tutorial"
         link: "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
-      - title: "A tutorial on DGM"
-        link: "https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf"
+      - title: "CSE599i-NADE"
+        link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L04_nade.pdf"
+      - title: "CSE599i-transformer"
+        link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L05_transformers.pdf"
+      - title: "In context learning paper 1"
+        link: "https://openreview.net/pdf?id=RdJVFCHjUMI"
   color: ""
 
 - date:
