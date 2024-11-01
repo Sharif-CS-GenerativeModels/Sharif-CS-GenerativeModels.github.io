@@ -85,12 +85,14 @@
   assignment: 
     - title: "HW2"
       link: "/assignments/hw2.pdf"
+    - title: "Tiny Quiz2"
+      link: "/assignments/hw2.pdf"
   sections: 
       - title: "Tb[2]-chapter 22"
         link: ""
-      - title: "harvardnlp"
+      - title: "harvard-nlp tutorial"
         link: "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
-      - title: "tutorial on DGM"
+      - title: "A tutorial on DGM"
         link: "https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf"
   color: ""
 
@@ -100,9 +102,7 @@
   subjects:
     - title: "**Variational Auto-encoder**"
       link: ""
-  assignment:
-    - title: "Tiny Quiz2"
-      link: "/assignments/hw2.pdf"
+  assignment: []
   sections: 
     - title: "Tb[2]-chapter 21"
       link: ""
