@@ -19,11 +19,13 @@
       link: ""
     - title: "Directed (Bayesian networks) and undirected models (Markov random fields)"
       link: ""
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Representation.pdf"
   assignment: []
   sections: 
       - title: "Tb[4]-chapter 3 & 4"
         link: ""
-      - title: "Stanford CS228 notes"
+      - title: "CS228 notes"
         link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
@@ -36,13 +38,15 @@
       link: ""
     - title: "Variational inference and sampling"
       link: ""
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Inference.pdf"
   assignment: []
   sections: 
   - title: "Tb[2]-chapter 7.4"
     link: ""
   - title: "Tb[4]-chapter 9"
     link: ""
-  - title: "Stanford CS228 notes"
+  - title: "CS228 notes"
     link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
@@ -53,13 +57,15 @@
       link: ""
     - title: "Learning from complete and incomplete data"
       link: ""
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Learning.pdf"
   assignment: []
   sections: 
     - title: "Tb[4]-chapter 16 & 17"
       link: ""
     - title: "A note on EM"
       link: "https://people.cs.umass.edu/~domke/courses/sml2011/10em.pdf"
-    - title: "Stanford CS228 notes"
+    - title: "CS228 notes"
       link: "https://ermongroup.github.io/cs228-notes/"
   color: ""
 
@@ -68,11 +74,13 @@
   subjects:
     - title: "**Causality and causal inference**"
       link: ""
+    - title: "slide from MPI"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/Cauality.pdf"
   assignment: 
     - title: "HW1"
-      link: "/assignments/hw1.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/GM-TA1.rar"
     - title: "Tiny Quiz1"
-      link: "/assignments/hw1.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/quiz1.pdf"
   sections: []
   color: ""
 
@@ -86,10 +94,14 @@
       link: ""
     - title: "FVSBN - NADE"
       link: ""
-    - title: "Sequence Modeling, Text Modeling - RNN"
+    - title: "RNN - Transformer encoder/decoder, Intro. to large language models"
       link: ""
-    - title: "Transformer encoder/decoder, Intro. to large language models & in context learning"
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/Autoregressive-models.pdf"
+    - title: "In context learning"
       link: ""
+    - title: "slide from Princeton-CS"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/In-context-learning-princeton.pdf"
   assignment: 
     - title: "HW2"
       link: "/assignments/hw2.pdf"
