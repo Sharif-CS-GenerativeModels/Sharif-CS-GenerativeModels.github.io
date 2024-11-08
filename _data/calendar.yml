@@ -118,6 +118,10 @@
         link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L05_transformers.pdf"
       - title: "In context learning paper 1"
         link: "https://openreview.net/pdf?id=RdJVFCHjUMI"
+      - title: "Transformer intro."
+        link: "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html"
+      - title: "Positional encoding intro."
+        link: "https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/"
   color: ""
 
 - date:
@@ -130,6 +134,8 @@
   sections: 
     - title: "Tb[2]-chapter 21"
       link: ""
+    - title: "CSE599i-VAE"
+      link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L06_vae.pdf"
   color: ""
 
 - date:
