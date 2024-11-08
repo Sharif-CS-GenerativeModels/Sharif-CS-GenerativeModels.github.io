@@ -20,7 +20,7 @@
     - title: "Directed (Bayesian networks) and undirected models (Markov random fields)"
       link: ""
     - title: "slide"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Representation.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Representation.pdf"
   assignment: []
   sections: 
       - title: "Tb[4]-chapter 3 & 4"
