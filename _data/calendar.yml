@@ -134,8 +134,10 @@
   sections: 
     - title: "Tb[2]-chapter 21"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
-    - title: "CSE599i-VAE"
+    - title: "CSE599i-VAE notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L06_vae.pdf"
+    - title: "CS236-VAE notes"
+      link: "https://deepgenerativemodels.github.io/notes/vae/"
   color: ""
 
 - date:
