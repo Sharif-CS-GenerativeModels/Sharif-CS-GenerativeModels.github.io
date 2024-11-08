@@ -39,7 +39,7 @@
     - title: "Variational inference and sampling"
       link: ""
     - title: "slide"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Inference.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Inference.pdf"
   assignment: []
   sections: 
   - title: "Tb[2]-chapter 7.4"
@@ -58,7 +58,7 @@
     - title: "Learning from complete and incomplete data"
       link: ""
     - title: "slide"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/PGM-Learning.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Learning.pdf"
   assignment: []
   sections: 
     - title: "Tb[4]-chapter 16 & 17"
@@ -75,12 +75,12 @@
     - title: "**Causality and causal inference**"
       link: ""
     - title: "slide from MPI"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/Cauality.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Cauality.pdf"
   assignment: 
     - title: "HW1"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/GM-TA1.rar"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/GM-TA1.rar"
     - title: "Tiny Quiz1"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/quiz1.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz1.pdf"
   sections: []
   color: ""
 
@@ -97,11 +97,11 @@
     - title: "RNN - Transformer encoder/decoder, Intro. to large language models"
       link: ""
     - title: "slide"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/Autoregressive-models.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Autoregressive-models.pdf"
     - title: "In context learning"
       link: ""
     - title: "slide from Princeton-CS"
-      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/blob/main/assets/slides/In-context-learning-princeton.pdf"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/In-context-learning-princeton.pdf"
   assignment: 
     - title: "HW2"
       link: "/assignments/hw2.pdf"
