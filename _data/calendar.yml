@@ -151,10 +151,22 @@
       link: ""
     - title: "Wasserstein GAN"
       link: ""
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/GAN.pdf"
   assignment: 
     - title: "HW3"
       link: "/assignments/hw3.pdf"
-  sections: []
+  sections: 
+    - title: "Tb[2]-chapter 26"
+      link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
+    - title: "CSE599i-GAN notes"
+      link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L10_gans.pdf"
+    - title: "Goodfellow GAN main paper"
+      link: "https://arxiv.org/pdf/1406.2661"
+    - title: "WGAN main paper"
+      link: "https://arxiv.org/pdf/1701.07875"
+    - title: "WGAN-GP main paper"
+      link: "https://arxiv.org/pdf/1704.00028"
   color: ""
 
 - date:
