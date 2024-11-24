@@ -123,13 +123,14 @@
       - title: "Positional encoding intro."
         link: "https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/"
   color: ""
-
 - date:
     - 1403/8/13
     - 1403/8/15
   subjects:
     - title: "**Variational Auto-encoder**"
       link: ""
+    - title: "slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Variational%20Autoencoder.pdf"
   assignment: []
   sections: 
     - title: "Tb[2]-chapter 21"
