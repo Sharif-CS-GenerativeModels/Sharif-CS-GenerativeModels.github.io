@@ -222,7 +222,7 @@
       link: ""
     - title: "Denoising score matching, Sliced score matching"
       link: ""
-    - title: "Langevin dynamics sampling"
+    - title: "Anealed Langevin dynamics, Noise conditional score networks"
       link: ""
   assignment:
     - title: "HW4"
