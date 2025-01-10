@@ -106,7 +106,7 @@
     - title: "HW2"
       link: "/assignments/hw2.pdf"
     - title: "Tiny Quiz2"
-      link: "/assignments/hw2.pdf"
+      link: ""https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz2.pdf""
   sections: 
       - title: "Text books[2]-chapter 22"
         link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
