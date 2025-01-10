@@ -36,7 +36,7 @@
   subjects:
     - title: "**Probabilistic graphical models: Exact and approximate inference**"
       link: ""
-    - title: "Variational inference and sampling"
+    - title: "Variational inference, MCMC sampling"
       link: ""
     - title: "slide"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Inference.pdf"
