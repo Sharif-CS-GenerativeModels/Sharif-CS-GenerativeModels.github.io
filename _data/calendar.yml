@@ -79,7 +79,7 @@
   assignment: 
     - title: "HW1"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/GM-TA1.rar"
-    - title: "Tiny Quiz1"
+    - title: "Tiny quiz1"
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz1.pdf"
   sections: []
   color: ""
@@ -105,8 +105,8 @@
   assignment: 
     - title: "HW2"
       link: "/assignments/hw2.pdf"
-    - title: "Tiny Quiz2"
-      link: ""https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz2.pdf""
+    - title: "Tiny quiz2"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz2.pdf"
   sections: 
       - title: "Text books[2]-chapter 22"
         link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
@@ -201,7 +201,7 @@
       link: ""
   assignment: 
     - title: "Mid-term exam"
-      link: "/assignments/midexam.pdf"  
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/midterm.pdf"  
   sections: 
     - title: "Text books[2]-chapter 24"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
@@ -227,8 +227,8 @@
   assignment:
     - title: "HW4"
       link: "/assignments/hw4.pdf"
-    - title: "Tiny Quiz3"
-      link: "/assignments/hw3.pdf"
+    - title: "Tiny quiz3"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/quiz3.pdf"
   sections: 
     - title: "Text books[2]-chapter 25"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
