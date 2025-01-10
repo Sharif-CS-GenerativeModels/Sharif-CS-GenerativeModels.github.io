@@ -23,7 +23,7 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Representation.pdf"
   assignment: []
   sections: 
-      - title: "Tb[4]-chapter 3 & 4"
+      - title: "Text books[4]-chapter 3 & 4"
         link: "https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/"
       - title: "CS228 notes"
         link: "https://ermongroup.github.io/cs228-notes/"
@@ -42,9 +42,9 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Inference.pdf"
   assignment: []
   sections: 
-  - title: "Tb[2]-chapter 7.4"
+  - title: "Text books[2]-chapter 7.4"
     link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
-  - title: "Tb[4]-chapter 9"
+  - title: "Text books[4]-chapter 9"
     link: "https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/"
   - title: "CS228 notes"
     link: "https://ermongroup.github.io/cs228-notes/"
@@ -61,7 +61,7 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/PGM-Learning.pdf"
   assignment: []
   sections: 
-    - title: "Tb[4]-chapter 16 & 17"
+    - title: "Text books[4]-chapter 16 & 17"
       link: "https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/"
     - title: "A note on EM"
       link: "https://people.cs.umass.edu/~domke/courses/sml2011/10em.pdf"
@@ -108,7 +108,7 @@
     - title: "Tiny Quiz2"
       link: "/assignments/hw2.pdf"
   sections: 
-      - title: "Tb[2]-chapter 22"
+      - title: "Text books[2]-chapter 22"
         link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
       - title: "harvard-nlp tutorial"
         link: "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
@@ -133,7 +133,7 @@
       link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Variational%20Autoencoder.pdf"
   assignment: []
   sections: 
-    - title: "Tb[2]-chapter 21"
+    - title: "Text books[2]-chapter 21"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "CSE599i-VAE notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L06_vae.pdf"
@@ -157,7 +157,7 @@
     - title: "HW3"
       link: "/assignments/hw3.pdf"
   sections: 
-    - title: "Tb[2]-chapter 26"
+    - title: "Text books[2]-chapter 26"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "CSE599i-GAN notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L10_gans.pdf"
@@ -181,7 +181,7 @@
       link: ""
   assignment: []
   sections: 
-    - title: "Tb[2]-chapter 23"
+    - title: "Text books[2]-chapter 23"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "Stanford CS236 notes"
       link: "https://deepgenerativemodels.github.io/notes/flow/"
@@ -201,7 +201,7 @@
     - title: "Mid-term exam"
       link: "/assignments/midexam.pdf"  
   sections: 
-    - title: "Tb[2]-chapter 24"
+    - title: "Text books[2]-chapter 24"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "CSE599i-EBM notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L16_ebm.pdf"
@@ -224,7 +224,7 @@
     - title: "Tiny Quiz3"
       link: "/assignments/hw3.pdf"
   sections: 
-    - title: "Tb[2]-chapter 25"
+    - title: "Text books[2]-chapter 25"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "Yang Song blog for score based models"
       link: "https://yang-song.net/blog/2021/score/"
@@ -240,7 +240,7 @@
       link: ""
   assignment: []
   sections: 
-    - title: "Tb[2]-chapter 25"
+    - title: "Text books[2]-chapter 25"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "DDPM main paper"
       link: "https://arxiv.org/pdf/2006.11239"
