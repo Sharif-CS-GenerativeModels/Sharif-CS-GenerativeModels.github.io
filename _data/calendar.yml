@@ -180,7 +180,13 @@
     - title: "Neural ODE"
       link: ""
   assignment: []
-  sections: []
+  sections: 
+    - title: "Stanford CS236 notes"
+      link: "https://deepgenerativemodels.github.io/notes/flow/"
+    - title: "CSE599i-FLOW notes"
+      link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L15_flow.pdf"
+    - title: "Neural ODE paper"
+      link: "https://arxiv.org/pdf/1806.07366"
   color: ""
 
 - date:
@@ -192,7 +198,9 @@
   assignment: 
     - title: "Mid-term exam"
       link: "/assignments/midexam.pdf"  
-  sections: []
+  sections: 
+    - title: "CSE599i-EBM notes"
+       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L16_ebm.pdf"
   color: ""
 
 - date:
@@ -207,7 +215,11 @@
       link: "/assignments/hw4.pdf"
     - title: "Tiny Quiz3"
       link: "/assignments/hw3.pdf"
-  sections: []
+  sections: 
+    - title: "Yang Song blog for score based models"
+      link: "https://yang-song.net/blog/2021/score/"
+    - title: "CSE599i-score notes"
+      link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L17_denoising.pdf"
   color: ""
 
 - date:
