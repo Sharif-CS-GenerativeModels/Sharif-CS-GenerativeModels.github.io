@@ -242,6 +242,8 @@
   sections: 
     - title: "Tb[2]-chapter 25"
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
+    - title: "DDPM main paper"
+      link: "https://arxiv.org/pdf/2006.11239"
   color: ""
 
 - date:
@@ -254,7 +256,9 @@
       link: "/assignments/hw5.pdf"
     - title: "Tiny Quiz4"
       link: "/assignments/hw3.pdf"
-  sections: []
+  sections: 
+    - title: "A paper on Evaluation of GMs"
+      link: "https://arxiv.org/pdf/1511.01844"
   color: ""
 
 - date:
