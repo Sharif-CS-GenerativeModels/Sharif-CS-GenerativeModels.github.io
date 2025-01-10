@@ -179,6 +179,8 @@
       link: ""
     - title: "Neural ODE"
       link: ""
+    - title: "Slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Normalizing%20Flow.pptx"
   assignment: []
   sections: 
     - title: "Text books[2]-chapter 23"
@@ -205,6 +207,10 @@
       link: "https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/"
     - title: "CSE599i-EBM notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L16_ebm.pdf"
+    - title: "Stanford CS236 EBM1 slides"
+      link: "https://deepgenerativemodels.github.io/assets/slides/cs236_lecture11.pdf"
+    - title: "Stanford CS236 EBM2 slides"
+      link: "https://deepgenerativemodels.github.io/assets/slides/cs236_lecture12.pdf"
   color: ""
 
 - date:
@@ -230,6 +236,8 @@
       link: "https://yang-song.net/blog/2021/score/"
     - title: "CSE599i-score notes"
       link: "https://courses.cs.washington.edu/courses/cse599i/20au/resources/L17_denoising.pdf"
+    - title: "Stanford CS236 slides"
+      link: "https://deepgenerativemodels.github.io/assets/slides/lecture%2013.pptx"
   color: ""
 
 - date:
@@ -238,6 +246,8 @@
   subjects:
     - title: "**Diffusion models**"
       link: ""
+    - title: "Slide"
+      link: "https://github.com/Sharif-CS-GenerativeModels/Sharif-CS-GenerativeModels.github.io/raw/refs/heads/main/assets/slides/Diffusion%20models.pptx"
   assignment: []
   sections: 
     - title: "Text books[2]-chapter 25"
